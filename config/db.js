@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 //url sitio de mongoose
-const MongoURI = "mongodb+srv://test:1234@cluster0.zrgp9.mongodb.net/Empresa?retryWrites=true&w=majority";
+const MongoURI = "mongodb+srv://test:1234@cluster0.zrgp9.mongodb.net/AppWeb4?retryWrites=true&w=majority";
 
 const MongoServer = async() => {
     try{
